@@ -200,5 +200,3 @@ You are very welcome to join us! You can [open an issue](https://github.com/XMul
 ## Series Address
 
 [QtExamples](https://github.com/XMuli/QtExamples) Welcome `star` ⭐ and `fork` 🍴 to this series of `C++ / QT / DTK` studies, with a table of contents for learning from the beginning to the end
-
-[ExCMake](https://github.com/XMuli/ExCMake) Welcome `star` ⭐ and `fork` 🍴 to this series of `CMake` studies, with a table of contents for learning from the beginning to the end

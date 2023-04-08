@@ -85,11 +85,12 @@
 | <kbd>Shift</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | 移动选中框位置 10 像素 | 局部 |
 | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | 扩展选中框尺寸 10 像素 | 局部 |
 | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>←</kbd>, <kbd>↓</kbd>, <kbd>↑</kbd>, <kbd>→</kbd> | 收缩选中框尺寸 01 像素 | 局部 |
+| <kbd>Shift</kbd> + <kbd>F4</kbd>                             | 快速保存图片           | 局部 |
 | <kbd>Esc</kbd>                                               | 退出                   | 局部 |
 |                                                              |                        |      |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd>  + <kbd>A</kbd>           | 窗口智能截图           | 全局 |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd>  + <kbd>L</kbd>           | 延时截图               | 全局 |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd>  + <kbd>S</kbd>           | 全屏截图               | 全局 |
+| <kbd>F6</kbd>           | 窗口智能截图           | 全局 |
+| <kbd>F7</kbd>           | 延时截图               | 全局 |
+| <kbd>F8</kbd>           | 全屏截图               | 全局 |
 
 <br>
 
@@ -195,6 +196,4 @@
 ## 系列地址
 
 [QtExamples](https://github.com/XMuli/QtExamples)     欢迎 `star` ⭐ 和 `fork` 🍴这个系列的 `C++ / QT / DTK` 学习，附学习由浅入深的目录
-
-[ExCMake](https://github.com/XMuli/ExCMake)          欢迎 `star` ⭐ 和 `fork` 🍴这个系列的 `CMake` 学习，附学习由浅入深的目录
 
