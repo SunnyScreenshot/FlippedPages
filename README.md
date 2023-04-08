@@ -3,6 +3,10 @@ FLIPPED Install packages offline
 
 
 
+简介： https://xmuli.blog.csdn.net/article/details/130033621
+
+
+
 <br>
 
 
@@ -255,13 +259,9 @@ FLIPPED Install packages offline
 
 ## 系列地址
 
-[QtExamples](https://github.com/XMuli/QtExamples)
+[QtExamples](https://github.com/XMuli/QtExamples)     欢迎 `star` ⭐ 和 `fork` 🍴这个系列的 `C++ / QT / DTK` 学习，附学习由浅入深的目录
 
-欢迎 `star` ⭐ 和 `fork` 🍴这个系列的 `C++ / QT / DTK` 学习，附学习由浅入深的目录。
-
-[ExCMake](https://github.com/XMuli/ExCMake)
-
-欢迎 `star` ⭐ 和 `fork` 🍴这个系列的 `CMake` 学习，附学习由浅入深的目录。
+[ExCMake](https://github.com/XMuli/ExCMake)          欢迎 `star` ⭐ 和 `fork` 🍴这个系列的 `CMake` 学习，附学习由浅入深的目录
 
 
 
