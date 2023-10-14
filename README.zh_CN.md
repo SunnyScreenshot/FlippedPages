@@ -1,8 +1,8 @@
 <div align="center">
   <p>
       <h1>
-      <a href="https://github.com/XMuli/Flipped">
-          <img src="snapshot/Flipped.svg"  alt="FLIPPED" />
+      <a href="https://github.com/XMuli/FlippedPages">
+          <img src="docs/snapshot/Flipped.svg"  alt="FLIPPED" />
       </a>
       <br/>
       FLIPPED
@@ -11,19 +11,20 @@
     <h4>漂亮且简易的跨平台截图贴图的软件。</h4>
   </p>
   <p>
-      <a href="https://github.com/XMuli/FlippedPackage/releases">
-      <img src="https://img.shields.io/github/languages/code-size/XMuli/FlippedPackage" alt="code-size" />
+      <a href="https://github.com/XMuli/FlippedPages/releases">
+      <img src="https://img.shields.io/github/languages/code-size/XMuli/FlippedPages" alt="code-size" />
     </a>
     <a href="https://github.com/XMuli/FlippedPackage/releases">
-      <img src="https://img.shields.io/github/downloads/XMuli/FlippedPackage/total" alt="Total Downloads" />
+      <img src="https://img.shields.io/github/downloads/XMuli/FlippedPages/total" alt="Total Downloads" />
     </a>
   <a href="https://github.com/XMuli/FlippedPackage">
-      <img src="https://img.shields.io/github/release/XMuli/FlippedPackage.svg?label=docs" alt="Docs" />
+      <img src="https://img.shields.io/github/release/XMuli/FlippedPages.svg?label=docs" alt="Docs" />
     </a>
     </a>
   </p>
   <p align="right"><br><a href="README.md">English</a> | <a href="README.zh_CN.md">简体中文</a></p>
 </div>
+
 [TOC]
 
 <br>
@@ -37,7 +38,7 @@
 - 撤销、重做（多级）、保存、取消、拷贝到剪切板
 - 截图框样式三套，且主题色提供自定义；屏幕十字线样式自定义
 - 国际化：英文、简体中文、繁体中文；字体和字号自定义
-- 更新中，，，
+- 更新中
 
 <br>
 
@@ -45,9 +46,9 @@
 
 ### 视频演示
 
-- [P1] [FLIPPED-MACOS 运行演示](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=1)
-- [P2] [FLIPPED-WINDOWS 运行演示](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=2)
-- [P3] [FLIPPED-MACOS_WINDOWS_LINUX 运行演示](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=3)
+- [P1] [FlippedPages-MACOS 运行演示](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=1)
+- [P2] [FlippedPages-WINDOWS 运行演示](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=2)
+- [P3] [FlippedPages-MACOS_WINDOWS_LINUX 运行演示](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=3)
 
 <br>
 
@@ -71,7 +72,7 @@
 
 <br>
 
-<font color=#D0087E size=4 face="幼圆"> **其它：** 更多截图效果可 → [在此](./snapshot) 预览 </font>
+<font color=#D0087E size=4 face="幼圆"> **其它：** 更多截图效果可 → [在此](docs/snapshot) 预览 </font>
 
 <br>
 
@@ -181,13 +182,13 @@
 
 ## 反馈 & 贡献
 
-非常欢迎你的加入！对于此软件有任何缺陷、建议、功能想法、都可 [提一个 Issue](https://github.com/XMuli/FlippedPackage/issues) ；或者帮助此项目的完善，提交一个 Pull Request。
+非常欢迎你的加入！对于此软件有任何缺陷、建议、功能想法、都可 [提一个 Issue](https://github.com/XMuli/FlippedPages/issues) ；或者帮助此项目的完善，提交一个 Pull Request。
 
 <br>
 
 ## 版本下载
 
-<font color=#D0087E>→ 离线安装包下载 [Releases](https://github.com/XMuli/FlippedPackage/releases) ；</font>
+<font color=#D0087E>→ 离线安装包下载 [Releases](https://flipped.xmuli.tech/); </font>
 
 <font color=#D0087E>→ **反馈 BUG/SUGGEST，用户划水交流等，和最新版本安装包获取 → [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&jump_from=webapi&authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu) ** </font>
 

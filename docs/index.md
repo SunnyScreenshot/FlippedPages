@@ -113,7 +113,7 @@ How to Feedback ? You are very welcome to join us! You can [open an issue](https
 
 ## Author
 
-xmulitech@gmail.com    |    https://github.com/XMuli/FILPPED
+xmulitech@gmail.com    |    http://flipped.xmuli.tech
 
 
 

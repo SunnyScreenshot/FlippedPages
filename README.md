@@ -1,30 +1,29 @@
 <div align="center">
   <p>
       <h1>
-      <a href="https://github.com/XMuli/FLIPPED">
-          <img src="snapshot/Flipped.svg"  alt="FLIPPED" />
+      <a href="https://github.com/XMuli/FlippedPages">
+          <img src="docs/snapshot/Flipped.svg"  alt="FLIPPED" />
       </a>
       <br/>
       FLIPPED
     </h1>
     <br/>
     <h4>Simple and beautiful screenshot software tool for Windows, MacOS and Linux</h4>
-    <h4>简洁且漂亮的截图的软件工具，支持 Windows，MacOS，Linux 平台</h4>
-    <h4>簡潔且漂亮的截圖的軟件工具，支持 Windows，MacOS，Linux 平臺</h4>
   </p>
   <p>
-    <a href="https://github.com/XMuli/FLIPPED/releases">
-      <img src="https://img.shields.io/github/languages/code-size/XMuli/FLIPPED" alt="code-size" />
+    <a href="https://github.com/XMuli/FlippedPages/releases">
+      <img src="https://img.shields.io/github/languages/code-size/XMuli/FlippedPages" alt="code-size" />
     </a>
-    <a href="https://github.com/XMuli/FLIPPED/releases">
-      <img src="https://img.shields.io/github/downloads/XMuli/FLIPPED/total" alt="Total Downloads" />
+    <a href="https://github.com/XMuli/FlippedPages/releases">
+      <img src="https://img.shields.io/github/downloads/XMuli/FlippedPages/total" alt="Total Downloads" />
     </a>
-  <a href="https://github.com/XMuli/FLIPPED">
-      <img src="https://img.shields.io/github/release/XMuli/FLIPPED.svg?label=docs" alt="Docs" />
+  <a href="https://github.com/XMuli/FlippedPages">
+      <img src="https://img.shields.io/github/release/XMuli/FlippedPages.svg?label=docs" alt="Docs" />
     </a>
   </p>
   <p align="right"><br><a href="README.md">English</a> | <a href="README.zh_CN.md">简体中文</a></p>
 </div>
+
 
 
 
@@ -34,22 +33,22 @@
 
 ## Preview
 
-- **GitHub:** [https://github.com/XMuli/FLIPPED](https://github.com/XMuli/FLIPPED)
-- **Site:**  [https://xmuli.tech/FLIPPED/](https://xmuli.tech/FLIPPED/)
+- **GitHub:** https://github.com/XMuli/FlippedPages
+- **Site:**  [https://flipped.xmuli.tech/](https://flipped.xmuli.tech/)
 
 ### Snapshot
 
 - **MACOS:**
 
-  <img src="snapshot/MacOS13_Cover.jpg" width="100%"/>
+  <img src="docs/snapshot/MacOS13_Cover.jpg" width="100%"/>
 
 - **WINDOWS:**
 
-  <img src="snapshot/Windows10_Couer.jpg" width="100%"/>
+  <img src="docs/snapshot/Windows10_Couer.jpg" width="100%"/>
 
 - **LINUX:**
 
-  <img src="snapshot/Ubuntu20.04_Cover.jpg" width="100%"/>
+  <img src="docs/snapshot/Ubuntu20.04_Cover.jpg" width="100%"/>
 
 - **Screenshots  & Editor:**
 
@@ -57,15 +56,15 @@
 
 - **Other:**
 
-<font color=#D0087E size=4 face="幼圆"> **Other:** More snapshoot effects can be → [here](./snapshot) preview </font>
+<font color=#D0087E size=4 face="幼圆"> **Other:** More snapshoot effects can be → [here](docs/snapshot) preview </font>
 
 
 
 ### Voide
 
-- [P1] [FLIPPED-MACOS operation demonstration](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=1)
-- [P2] [FLIPPED-WINDOWS operation demonstration](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=2)
-- [P3] [FLIPPED-LINUX (ubuntu 20.04) operation demonstration](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=3)
+- [P1] [FlippedPages-MACOS operation demonstration](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=1)
+- [P2] [FlippedPages-WINDOWS operation demonstration](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=2)
+- [P3] [FlippedPages-LINUX (ubuntu 20.04) operation demonstration](https://www.bilibili.com/video/BV1rX4y1D7EZ?p=3)
 
 
 
@@ -125,19 +124,19 @@
   # After adding "C:\Qt\5.15.2\msvc2019\bin" to the path, execute echo %PATH% in the terminal to make it take effect immediately.
   "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat" x86
   cmake -G "Visual Studio 16 2019" -A Win32 ..
-  devenv FLIPPED.sln /Build "Release|Win32"
+  devenv FlippedPages.sln /Build "Release|Win32"
   
   # x64:
   # After adding "C:\Qt\5.15.2\msvc2019_64\bin" to the path, execute echo %PATH% in the terminal to make it take effect immediately.
   "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Auxiliary\Build\vcvarsall.bat" x64
   cmake -G "Visual Studio 16 2019" -A x64 ..
-  devenv FLIPPED.sln /Build "Release|x64"
+  devenv FlippedPages.sln /Build "Release|x64"
   
   #『Step2』
-  Visual Studio 2019 open `FLIPPED.sln`
+  Visual Studio 2019 open `FlippedPages.sln`
   
   #『Step3』
-  windeployqt  bin/FLIPPED.exe --no-translations
+  windeployqt  bin/FlippedPages.exe --no-translations
   
   # ******************** MinGW 8.1.0 ********************
   QtCreator opens the `CMakeLists.txt` file in the root directory of the source code
@@ -155,8 +154,8 @@
 - **Compile Step:**
 
   ```bash
-  git clone --recursive https://github.com/XMuli/FLIPPED.git
-  cd FLIPPED
+  git clone --recursive https://github.com/XMuli/FlippedPages.git
+  cd FlippedPages
   mkdir build & cd build
   cmake ..
   make -j16
@@ -190,13 +189,13 @@ If it helps you, or find it useful, <font color=#FE7207  size=4 face="幼圆">yo
 
 Feedback & How to contribute
 
-You are very welcome to join us! You can [open an issue](https://github.com/XMuli/FLIPPED/issues) ; for any bug, suggestion, feature idea, or to help improve this software. Or help improve the project by submitting a Pull Request.
+You are very welcome to join us! You can [open an issue](https://github.com/XMuli/FlippedPages/issues) ; for any bug, suggestion, feature idea, or to help improve this software. Or help improve the project by submitting a Pull Request.
 
 <br>
 
 ## Package Download
 
-<font color=#D0087E> → Offline Installer Download [xmuli.tech/FLIPPED/](https://xmuli.tech/FLIPPED/); </font>
+<font color=#D0087E> → Offline Installer Download [Releases](https://flipped.xmuli.tech/); </font>
 
 <font color=#D0087E>→ **Feedback BUG/SUGGEST, user community, etc., and the latest version of the installer get** → [![alt text](https://img.shields.io/badge/QQ_Groups-418103279-brightgreen)](https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&jump_from=webapi&authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu)  </font>
 
