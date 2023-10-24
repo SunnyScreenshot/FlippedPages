@@ -31,10 +31,28 @@
 
 
 
+
+
+
+
 ## Preview
 
 - **GitHub:** https://github.com/XMuli/FlippedPages
 - **Site:**  [https://flipped.xmuli.tech/](https://flipped.xmuli.tech/)
+
+
+
+**Update 2023.10.24:**
+
+We recommend and use the new version of `Sunny Screenshot`, with its new architecture and UI design.
+
+更推荐和使用新版 `Sunny Screenshot`，全新架构和 UI 设计，Winks~
+
+**官网：** [https://sunny.xmuli.tech](https://sunny.xmuli.tech/)
+
+**GitHub：**  [https://github.com/XMuli/SunnyPages](https://github.com/XMuli/SunnyPages)
+
+
 
 ### Snapshot
 
